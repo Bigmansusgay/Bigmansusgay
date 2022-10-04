@@ -11,3 +11,10 @@
 - playing soccer
 - researching computer parts and how they work
 - coding
+
+##Typing
+  -learned
+    - J, F, Space
+    - U, R, K
+    - D, E, I
+    41 wpm
